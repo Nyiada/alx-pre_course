@@ -1,2 +1,2 @@
-My editted readme
+My uptodate readme
 
